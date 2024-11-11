@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ZALYNOX
-- 👀 I’m interested in programming
+- 👀 15yo boy from białystok interested in programming
 - 🌱 I’m currently learning java and a little js
 - 😄 Pronouns: he/him
